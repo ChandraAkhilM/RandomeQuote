@@ -1,0 +1,18 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#quote-box {
+  max-width: 600px;
+}
+#new-quote{
+  padding-right: 1px;
+}
+
+.bg-white {
+  background-color: white;
+}
